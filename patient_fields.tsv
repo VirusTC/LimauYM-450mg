@@ -1,0 +1,6 @@
+Field_ID	Field_Label	Data_Type	Validation_Rule
+PAT-01	Patient_Full_Name	String	Alpha_Only_Required
+PAT-02	Date_of_Birth	Date	MM/DD/YYYY_Required
+PAT-03	Primary_Indication	Enumeration	Nephrolithiasis|Acidosis|pH_Modulation
+PAT-04	Medication_Allergies	Text	Null_Allowed
+PAT-05	Consent_Signature	Signature	Binary_Execution_Required
