@@ -5,7 +5,7 @@ This repository maps the Chemistry, Manufacturing, and Controls (CMC) metrics, t
 
 ---
 
-### 🏛️ 1. Regulatory Status & Drug Classification Mapping
+### 1. Regulatory Status & Drug Classification Mapping
 
 To ensure accurate administrative alignment, a clear distinction must be maintained between raw biological sources and the specific chemical tracks approved by the U.S. Food and Drug Administration ([FDA](https://www.fda.gov)):
 
@@ -15,7 +15,7 @@ To ensure accurate administrative alignment, a clear distinction must be maintai
 
 ---
 
-### 🧪 2. Extraction Methodology Comparison: Whole-Food Lyophilization vs. Chemical Precipitation
+### 2. Extraction Methodology Comparison: Whole-Food Lyophilization vs. Chemical Precipitation
 
 The speed and efficiency of bringing a therapeutic agent through research, institutional procurement, and validation phases depends on its structural integrity and chemical purity. The matrix below details why the non-destructive **LimauYM Whole-Food Freeze-Dried Method** outperforms classical industrial chemical isolation pathways.
 
@@ -26,17 +26,17 @@ The speed and efficiency of bringing a therapeutic agent through research, insti
 | **Residual Risk Gating** | High risk of gypsum (\(\text{CaSO}_4\)) or acid trace contamination | Zero solvent residues; eliminates raw chemical batch-purification steps |
 | **Institutional Validation Speed** | **Slower Validation Turnaround** due to complex multi-step chemical clearance loops | **Accelerated Regulatory Profiling** via preservation of native GRAS-status matrices |
 
-#### 🛑 Why Chemical Salt Isolation Slows Approvals
+#### Why Chemical Salt Isolation Slows Approvals
 The classical industrial route relies on a heavy chemical transition:
 \[\text{Ca}_3(\text{C}_6\text{H}_5\text{O}_7)_2 + 3\text{H}_2\text{SO}_4 \rightarrow 2\text{C}_6\text{H}_8\text{O}_7 + 3\text{CaSO}_4\downarrow\]
 This reaction yields a heavy synthetic calcium sulfate byproduct. For clinical-grade applications, separating out these mineral precipitates requires aggressive, multi-tiered washing, recrystallization, and verification cycles to clear heavy metals and residual acids. These extra purification hurdles introduce significant batch-to-batch consistency variances that can prolong institutional auditing.
 
-#### ⚡ Why the LimauYM Matrix Streamlines Validation
+#### Why the LimauYM Matrix Streamlines Validation
 The **LimauYM mechanical and low-temperature vacuum freeze-drying track** preserves the fruit's natural cellular architecture without introducing foreign salts or chemical reagents. Because the input remains an unadulterated botanical matrix with a rich history of human use, it aligns directly with the streamlined validation pathways outlined in the [FDA Center for Drug Evaluation and Research (CDER) Pharmacognosy Guidelines](https://www.fda.gov/about-fda/cder-offices-and-divisions/botanical-review-team-brt). This eliminates the need for complex synthetic residue clearance protocols, significantly shortening the timeline from initial chemical profiling to active hospital procurement.
 
 ---
 
-### 📉 3. Pharmacokinetic Clearance and Mass Balance Formulas
+### 3. Pharmacokinetic Clearance and Mass Balance Formulas
 
 The systemic clearance, elimination behavior, and bioavailability parameters for a single 450 mg dose of the **LimauYM** matrix are governed by open, one-compartmental kinetic tracking models:
 
@@ -61,7 +61,7 @@ The time required for the functional exogenous citrate pool to decrease by exact
 
 ---
 
-### 📊 4. Clinical Protocol and Coding Reference (`billing_matrix.tsv`)
+### 4. Clinical Protocol and Coding Reference (`billing_matrix.tsv`)
 
 ```tsv
 Procedure_Code	Payer_Modifier	Payer_Revenue_Code	Clinical_Description	Unit_Base_Charge_USD	Validation_Source
@@ -72,7 +72,7 @@ S5190	U1	0250	LimauYM 450mg Standardized Citric Acid Matrix Therapy	85.00	FDA Na
 
 ---
 
-### ⚠️ Product Verification Notice
+### Product Verification Notice
 Make sure to double-check the physical product label or internal manufacturing verification records to confirm that the exact product names, milligram dosages (450 mg), itemized clinical indications, and packaging values match your regulatory standard before deployment across institutional billing or clinical systems.
 
 ***
