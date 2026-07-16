@@ -1,0 +1,4 @@
+Order_Code	Dose_Value	Route	Frequency	Lab_Monitoring_Requirement
+LYM-450-MNT	450mg	PO	Q12H	Bi-Weekly_Urinary_pH_Testing
+LYM-900-THR	900mg	PO	Q12H	Weekly_BMP_Serum_Electrolytes
+LYM-1800-CRT	1800mg	PO	QD	Daily_Ionized_Calcium_Circuit_Screening
