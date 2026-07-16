@@ -1,4 +1,10 @@
 # LimauYM 450mg — Active Regulatory & Technical Profile
+
+
+**Product Classification:** Standardized Plant-Based Citric Acid Matrix Validation Profile
+**Target Molecular Pathway:** USP/NF Monograph Track, Systemic Alkalization, Hypocitraturia Countermeasures, & Oncology Supportive Care
+**Regulatory Blueprint:** Mapped to FDA Direct Food Ingredient Standards (21 CFR 184.1033) & USP Monograph Purity Baselines
+
 ## Standardized Reference File: Citric Acid Active Monograph Track
 
 This repository maps the Chemistry, Manufacturing, and Controls (CMC) metrics, thermodynamic properties, and pharmacokinetic profiles for **LimauYM 450mg** under the established federal and academic guidelines for **Citric Acid** pharmacotherapy.
