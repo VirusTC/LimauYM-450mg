@@ -11,7 +11,7 @@
 * **National Drug Code (NDC) Equivalent:** 71450-0450-1 (LimauYM 450mg Protocol)
 
 ## 3. Financial Breakdown
-* Professional Evaluation Encounter Fee: $240.00
-* Therapeutic Extraction Form (LimauYM Matrix): $85.00
-* **Total Gross Charges:** $325.00
+* Professional Evaluation Encounter Fee: $675.00
+* Therapeutic Extraction Form (LimauYM Matrix): $14,893.00
+* **Total Gross Charges:** $15,568.00
 * **Patient Copayment Due:** $________________
