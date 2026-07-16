@@ -1,0 +1,4 @@
+CPT_HCPCS_Code	Modifier	Revenue_Code	Description	Unit_Charge_USD
+99214	AA	0510	Outpatient_Clinic_Evaluation_Visit	240.00
+S5190	U1	0250	LimauYM_450mg_Botanical_Matrix_Therapy	85.00
+81003	None	0300	Urinalysis_Automated_Without_Microscopy	35.00
