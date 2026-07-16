@@ -1,0 +1,4 @@
+Auth_Parameter	Required_Value	Verification_Source	Approval_Duration
+Primary_ICD-10	N20.0_or_E87.2	Electronic_Medical_Record	12_Calendar_Months
+Prior_Therapy_Failure	Potassium_Citrate_Intolerance	Pharmacy_Dispensing_Logs	Mandatory_Before_Approval
+Urinary_pH_Ceiling	LessThan_5.5	24-Hour_Urinalysis_Report	Required_Within_30_Days
